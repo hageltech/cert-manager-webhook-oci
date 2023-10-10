@@ -1,4 +1,6 @@
-# ACME webhook for Oracle Cloud Infrastructure
+# THIS IS NO LONGER NEEDED, UPSTREAM IMPLEMENTED ALL THE FIXES THAT WE NEEDED.
+
+## ACME webhook for Oracle Cloud Infrastructure
 
 This solver can be used when you want to use cert-manager with Oracle Cloud Infrastructure as a DNS provider.
 
